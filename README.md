@@ -23,4 +23,4 @@ Câu lệnh để chuyển file:
 ssconvert file_can_chuyen.xlsx file_moi.csv
 ```
 
-*Minh Tân Lê *
+*Minh Tân Lê*
